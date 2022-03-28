@@ -5,5 +5,5 @@
 
 <br>
 Link:-https://drive.google.com/file/d/1-VRQV_n_XVvWlEvpdYnHIZMfZMa1XCZy/view?usp=sharing <br>
-Currently Under Development<br>
+Only Mobile Friendly Design<br>
 Technologies Used:-React,Fetch Api,MaterialUi
